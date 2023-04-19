@@ -1,12 +1,12 @@
 ### Hi, I'm Jo Hyeon-Geun, AI developer 👋
 <br>
 <br>
-**:closed_book: Career**
+### :closed_book: Career
 <br>
 * SKT FLY AI Challenger(2022.12 ~ 2023.02)
 <br>
 <br>
-**:computer: Skills**
+### :computer: Skills
 <br>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flate&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
 <br>
