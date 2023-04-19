@@ -1,5 +1,7 @@
 ### Hi, I'm Jo Hyeon-Geun, AI developer 👋
 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+
 <!--
 **rkskek1226/rkskek1226** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
