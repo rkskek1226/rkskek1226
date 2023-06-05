@@ -1,4 +1,4 @@
-## Hi, I'm Jo Hyeon-Geun, AI developer 👋
+## Hi, I'm Jo Hyeon-Geun, SW developer 👋
 
 <br>
 
